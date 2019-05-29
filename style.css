@@ -184,4 +184,11 @@ a{
         margin-left: 105px;
     }
 }
-
+#topic{
+    display: flex;
+    align-items: center;
+    font-size: 19pt;
+}
+p{
+    font-size: 16pt
+}
