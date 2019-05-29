@@ -178,6 +178,7 @@ a{
         display: flex;
         flex-wrap: wrap;
         justify-content: center;
+        height: 850px
     }
 #purple-box{
         margin-left: 105px;
